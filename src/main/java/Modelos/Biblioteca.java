@@ -138,7 +138,7 @@ public class Biblioteca {
     
     
     /**
-    * NOTA : Método opcional para mostrar una canción. 
+    * NOTA : Método opcional para mostrar una canción. Parte de Miguel 
     */
     public String mostrarCancion(String nombre){
     
